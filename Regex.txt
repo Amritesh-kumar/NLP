@@ -1,0 +1,5 @@
+\d   Matches any decimal digit, this is equivalent to the set class [0-9].
+\D   Matches any non-digit character.
+\s   Matches any whitespace character.
+\S   Matches any non-whitespace character
+\w   Matches any alphanumeric character, this is equivalent to the class [a-zA-Z0-9_].
